@@ -43,7 +43,7 @@ This separation allows:
 
 ### 1. Register the API Application (server)
 
-- Go to [Azure Portal](https://portalavigate to **Azure Active Directory > App registrations**
+- Go to [Azure Portal](https://portal.azure.com/) to **Azure Active Directory > App registrations**
 - Click **+ New registration**
 
    ![](images/ar01.png)
