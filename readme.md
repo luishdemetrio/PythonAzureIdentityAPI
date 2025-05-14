@@ -99,9 +99,9 @@ This separation allows:
   
   ![](images/ar07.png)
   
-- . Go to **Certificates & secrets**
+- Go to **Certificates & secrets**
 
-- . Click on **+ New client secret**.
+- Click on **+ New client secret**.
 
 - In the dialog that appears:
 
