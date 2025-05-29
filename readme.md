@@ -17,8 +17,9 @@
     - Step 5: Create requirements.txt
     - Step 6: Run the API
 6. 🧩 Part 3: Testing and Validation
-    - Step 1: Confirm the API Requires Authentication
-    - Step 2: Authenticate with Azure AD (OAuth 2.0)
+    - Step 1. Expose Your Local API to the Internet with ngrok
+    - Step 2: Confirm the API Requires Authentication
+    - Step 3: Authenticate with Azure AD (OAuth 2.0)
 7. Next Steps
 8. Additional Resources
 
